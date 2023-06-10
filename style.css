@@ -1,0 +1,53 @@
+body {
+    text-align: center;
+    background-color: #a9e465;
+}
+h1 {
+    font-size: 5rem;
+    color: #15318b;
+    font-family: "Arvo", cursive;
+    text-shadow: 3px 0 #DA0463;
+}
+.set {
+    margin: 10% auto;
+}
+.s{
+    border: 10px solid #404B69;
+  font-size: 5rem;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #cdda59;
+  text-shadow: 3px 0 #9ba8ac;
+  border-radius: 15px;
+  display: inline-block;
+  width: 300px;
+  height: auto;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}
+.Drum{
+    background-image:url("drums.png");
+    background-repeat: no-repeat;
+    background-size: 150px auto;
+}
+.Guitar{
+    background-image:url("guitar.png");
+    background-repeat: no-repeat;
+    background-size: 150px auto;
+}
+.Flute{
+    background-image:url("flute.png");
+    background-repeat: no-repeat;
+    background-size: 150px auto;
+}
+.Violin{
+    background-image:url("violin.png");
+    background-repeat: no-repeat;
+    background-size: 150px auto;
+}
+.pressed{
+    box-shadow: 0 3px 4px 0 #69BFBF;
+    opacity: 0.5;
+}
